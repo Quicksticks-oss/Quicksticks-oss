@@ -1,6 +1,7 @@
+[![MasterHead](https://giffiles.alphacoders.com/211/211931.gif)]
 <h1 align="center">Hi 👋, I'm Miles</h1>
 <h3 align="center">I like to work on ML projects.</h3>
-<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/211/211931.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quicksticks-oss&label=Profile%20views&color=0e75b6&style=flat" alt="quicksticks-oss" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quicksticks-oss" alt="quicksticks-oss" /></a> </p>
