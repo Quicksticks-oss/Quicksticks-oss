@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on [Waifu Engine](https://waifuengine.com/)
 
-- 🌱 I’m currently learning **Nova Unity UI**
+- 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Quicksticks-oss?tab=repositories](https://github.com/Quicksticks-oss?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/Quicksticks-oss?tab=repositories)
 
 - 💬 Ask me about **Pytorch**
 
