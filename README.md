@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Waifu Engine](https://waifuengine.com/)
 
-- 🌱 I’m currently learning **[Rust](https://www.rust-lang.org/)**
+- 🌱 I’m currently learning **[LSTMs]([https://www.rust-lang.org/](https://arxiv.org/pdf/1909.09586.pdf))**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/Quicksticks-oss?tab=repositories)
 
