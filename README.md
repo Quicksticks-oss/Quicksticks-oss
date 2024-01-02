@@ -20,6 +20,8 @@
 
 - ⚡ Fun fact **I own all toast.**
 
+<img src="https://share.creavite.co/c8kFQPrbQdUixGi7.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@milesryan217934" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@milesryan217934" height="30" width="40" /></a>
