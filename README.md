@@ -1,10 +1,9 @@
 ![MasterHead](https://raw.githubusercontent.com/Quicksticks-oss/Quicksticks-oss/main/bg.gif)
-<h1 align="center">Hi 👋, I'm Miles</h1>
-<h3 align="center">I like to work on ML & Hacking projects.</h3>
-<br>
 <p align="center">
 <img src="https://share.creavite.co/c8kFQPrbQdUixGi7.gif">
 </p>
+<h1 align="center">Hi 👋, I'm Miles</h1>
+<h3 align="center">I like to work on ML & Hacking projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quicksticks-oss&label=Profile%20views&color=0e75b6&style=flat" alt="quicksticks-oss" /> </p>
 
