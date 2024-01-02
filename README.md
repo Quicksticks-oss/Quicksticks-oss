@@ -19,8 +19,9 @@
 - 📫 How to reach me **Discord: Dev-Senpai#3962**
 
 - ⚡ Fun fact **I own all toast.**
-
+<p align="center">
 <img src="https://share.creavite.co/c8kFQPrbQdUixGi7.gif">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
