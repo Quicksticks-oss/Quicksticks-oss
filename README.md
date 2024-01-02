@@ -1,6 +1,10 @@
 ![MasterHead](https://raw.githubusercontent.com/Quicksticks-oss/Quicksticks-oss/main/bg.gif)
 <h1 align="center">Hi 👋, I'm Miles</h1>
-<h3 align="center">I like to work on ML projects.</h3>
+<h3 align="center">I like to work on ML & Hacking projects.</h3>
+<br>
+<p align="center">
+<img src="https://share.creavite.co/c8kFQPrbQdUixGi7.gif">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quicksticks-oss&label=Profile%20views&color=0e75b6&style=flat" alt="quicksticks-oss" /> </p>
 
@@ -19,9 +23,6 @@
 - 📫 How to reach me **Discord: Dev-Senpai#3962**
 
 - ⚡ Fun fact **I own all toast.**
-<p align="center">
-<img src="https://share.creavite.co/c8kFQPrbQdUixGi7.gif">
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
