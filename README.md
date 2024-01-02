@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Waifu Engine](https://waifuengine.com/)
 
-- 🌱 I’m currently learning **[CNNs](https://arxiv.org/pdf/1511.08458.pdf)**
+- 🌱 I’m currently learning **[RWKV](https://www.rwkv.com/)**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/Quicksticks-oss?tab=repositories)
 
