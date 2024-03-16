@@ -5,8 +5,6 @@
 <h1 align="center">Hi 👋, I'm Miles</h1>
 <h3 align="center">I like to work on ML & Hacking projects.</h3>
 
-<iframe src="https://widgetapp.stream/view/4695f22d-8bf3-488b-b75b-eb5c7d99c561_660c4f6e-1ad2-4d9f-85cb-84d5547c679e"></iframe>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quicksticks-oss&label=Profile%20views&color=0e75b6&style=flat" alt="quicksticks-oss" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quicksticks-oss" alt="quicksticks-oss" /></a> </p>
