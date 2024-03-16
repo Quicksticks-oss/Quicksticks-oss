@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quicksticks-oss" alt="quicksticks-oss" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@milesryan217934" target="blank"><img src="https://img.shields.io/twitter/follow/@milesryan217934?logo=twitter&style=for-the-badge" alt="@milesryan217934" /></a> </p>
+<p align="left"> <a href="https://twitter.com/milesryan217934" target="blank"><img src="https://img.shields.io/twitter/follow/milesryan217934?logo=twitter&style=for-the-badge" alt="@milesryan217934" /></a> </p>
 
 - 🔭 I’m currently working on [Waifu Engine](https://waifuengine.com/)
 
