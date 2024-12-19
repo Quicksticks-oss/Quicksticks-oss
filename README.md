@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://share.creavite.co/c8kFQPrbQdUixGi7.gif">
 </p>
-<h1 align="center">Hi 👋, I'm Miles</h1>
+<h1 align="center">Hi 👋, I'm Dev/treZZur</h1>
 <h3 align="center">I like to work on ML & Hacking projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quicksticks-oss&label=Profile%20views&color=0e75b6&style=flat" alt="quicksticks-oss" /> </p>
