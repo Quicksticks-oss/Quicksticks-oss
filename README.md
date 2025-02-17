@@ -1,7 +1,4 @@
 ![MasterHead](https://raw.githubusercontent.com/Quicksticks-oss/Quicksticks-oss/main/bg.gif)
-<p align="center">
-<img src="https://share.creavite.co/c8kFQPrbQdUixGi7.gif">
-</p>
 <h1 align="center">Hi 👋, I'm Dev/treZZur</h1>
 <h3 align="center">I like to work on ML & Hacking projects.</h3>
 
