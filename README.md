@@ -8,6 +8,8 @@
 
 - 🔭 I’m currently working on [Waifu Engine](https://waifuengine.com/)
 
+- 🔭 Ex Developer [Storyteller](https://storyteller.ai/)
+
 - 🌱 I’m currently learning **[RWKV](https://www.rwkv.com/)**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/Quicksticks-oss?tab=repositories)
